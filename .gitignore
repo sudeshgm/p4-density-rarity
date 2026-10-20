@@ -1,3 +1,10 @@
+!results/contact_*.png
+!results/score_summary.json
+!results/scores.csv
 .venv/
-data/
 __pycache__/
+data/
+features/
+results/*
+results/bottom100/
+results/top100/

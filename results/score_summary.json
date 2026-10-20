@@ -1,0 +1,7 @@
+{
+ "spearman": 0.44367069294505357,
+ "gmm_converged": true,
+ "gmm_iters": 72,
+ "rows": 60075143,
+ "total_s": 6753.498386859894
+}
