@@ -1,0 +1,28 @@
+{
+ "times": {
+  "load": 41.1,
+  "fit_q": 781.9,
+  "fit_p0": 579.4,
+  "score_steps": 439.8,
+  "aggregate": 8.5
+ },
+ "q": {
+  "n": 1000000,
+  "converged": true,
+  "n_iter": 71,
+  "lower_bound": -2.0590757381039317,
+  "reg_covar": 1e-06
+ },
+ "p0": {
+  "n": 1000000,
+  "converged": true,
+  "n_iter": 50,
+  "lower_bound": 3.9410539629464045,
+  "reg_covar": 1e-06
+ },
+ "n_scenarios": 24988,
+ "n_skipped_lt3_agents": 52,
+ "n_scored": 24936,
+ "n_moving_steps": 29162950,
+ "n_scored_agents": 595356
+}

@@ -6,3 +6,12 @@ results/*
 !results/contact_*.png
 !results/score_summary.json
 !results/scores.csv
+!results/scores_v2.csv
+!results/score_v2_info.json
+!results/v2_top50_labels.csv
+!results/v2_top100/
+results/v2_top100/*
+!results/v2_top100/contact_*.png
+!results/v2_bottom100/
+results/v2_bottom100/*
+!results/v2_bottom100/contact_*.png
